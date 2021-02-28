@@ -5,8 +5,6 @@ from random import randrange
 trained_face_data = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 
 # load img
-# img = cv2.imread('anne-marie.jpg')
-# img = cv2.imread('prs2.jpg')
 # img = cv2.imread('faces.jpg')
 # img = cv2.imread('faces2.jpg')
 img = cv2.imread('faces3.jpg')
